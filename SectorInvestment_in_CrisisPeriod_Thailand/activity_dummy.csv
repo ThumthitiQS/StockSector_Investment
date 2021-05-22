@@ -1,0 +1,8 @@
+,term,estimate,std.error,statistic,p.value,significant
+1,(Intercept),0.057107634,0.007867422,7.258748054,3.91E-13,***
+2,FixedAssetTurnover_dummy,0.01718506,0.04942033,0.347732609,0.728041005,
+3,TotalAssetTurnover_dummy,0.041343576,0.094107532,0.439322709,0.660427721,
+4,AverageCollectionPeriod_Days_dummy,-0.000574538,0.000733718,-0.783049786,0.433597877,
+5,AccountPayableTurnover_dummy,-0.009179503,0.002415719,-3.799905272,0.000144751,***
+6,AveragePaymentPeriod_Days_dummy,-0.001117903,0.000361371,-3.093501835,0.001978093,***
+7,CashCycle_Days_dummy,-0.000132916,4.87E-05,-2.726591877,0.006399213,***
